@@ -1,0 +1,101 @@
+Question,Response,Label,Score
+Q13,I'm worried about the safety of using electricity for taste.,NEGATIVE,0.9978809952735901
+Q14,Make menus clearer about salt content.,POSITIVE,0.9811603426933289
+Q13,I think it's a fascinating innovation!,POSITIVE,0.999825656414032
+Q14,Introduce spice blends that enhance flavor without salt.,POSITIVE,0.9996587038040161
+Q13,I'm worried about the safety of using electricity for taste.,NEGATIVE,0.9978809952735901
+Q14,"Some dishes taste fine, but others really lack depth.",NEGATIVE,0.9986811280250549
+Q13,I think it's a fascinating innovation!,POSITIVE,0.999825656414032
+Q14,Restaurants should offer more flavorful low-sodium dishes.,NEGATIVE,0.8018722534179688
+Q13,I'm worried about the safety of using electricity for taste.,NEGATIVE,0.9978809952735901
+Q14,"Some dishes taste fine, but others really lack depth.",NEGATIVE,0.9986811280250549
+Q13,I'm not sure it would work for everyone.,NEGATIVE,0.9996950626373291
+Q14,Introduce spice blends that enhance flavor without salt.,POSITIVE,0.9996587038040161
+Q13,I'm not sure it would work for everyone.,NEGATIVE,0.9996950626373291
+Q14,Introduce spice blends that enhance flavor without salt.,POSITIVE,0.9996587038040161
+Q13,I think it's a fascinating innovation!,POSITIVE,0.999825656414032
+Q14,Restaurants should offer more flavorful low-sodium dishes.,NEGATIVE,0.8018722534179688
+Q13,I'm worried about the safety of using electricity for taste.,NEGATIVE,0.9978809952735901
+Q14,Introduce spice blends that enhance flavor without salt.,POSITIVE,0.9996587038040161
+Q13,Sounds promising but needs more testing.,NEGATIVE,0.9964469075202942
+Q14,"Some dishes taste fine, but others really lack depth.",NEGATIVE,0.9986811280250549
+Q13,I'm worried about the safety of using electricity for taste.,NEGATIVE,0.9978809952735901
+Q14,I often find them too bland.,NEGATIVE,0.9997965693473816
+Q13,I'm worried about the safety of using electricity for taste.,NEGATIVE,0.9978809952735901
+Q14,Restaurants should offer more flavorful low-sodium dishes.,NEGATIVE,0.8018722534179688
+Q13,I'm worried about the safety of using electricity for taste.,NEGATIVE,0.9978809952735901
+Q14,Make menus clearer about salt content.,POSITIVE,0.9811603426933289
+Q13,I'm worried about the safety of using electricity for taste.,NEGATIVE,0.9978809952735901
+Q14,I often find them too bland.,NEGATIVE,0.9997965693473816
+Q13,I think it's a fascinating innovation!,POSITIVE,0.999825656414032
+Q14,I often find them too bland.,NEGATIVE,0.9997965693473816
+Q13,I'm worried about the safety of using electricity for taste.,NEGATIVE,0.9978809952735901
+Q14,I often find them too bland.,NEGATIVE,0.9997965693473816
+Q13,Sounds promising but needs more testing.,NEGATIVE,0.9964469075202942
+Q14,"Some dishes taste fine, but others really lack depth.",NEGATIVE,0.9986811280250549
+Q13,I think it's a fascinating innovation!,POSITIVE,0.999825656414032
+Q14,Make menus clearer about salt content.,POSITIVE,0.9811603426933289
+Q13,Sounds promising but needs more testing.,NEGATIVE,0.9964469075202942
+Q14,Introduce spice blends that enhance flavor without salt.,POSITIVE,0.9996587038040161
+Q13,I think it's a fascinating innovation!,POSITIVE,0.999825656414032
+Q14,Restaurants should offer more flavorful low-sodium dishes.,NEGATIVE,0.8018722534179688
+Q13,Sounds promising but needs more testing.,NEGATIVE,0.9964469075202942
+Q14,Introduce spice blends that enhance flavor without salt.,POSITIVE,0.9996587038040161
+Q13,Sounds promising but needs more testing.,NEGATIVE,0.9964469075202942
+Q14,"Some dishes taste fine, but others really lack depth.",NEGATIVE,0.9986811280250549
+Q13,I'm worried about the safety of using electricity for taste.,NEGATIVE,0.9978809952735901
+Q14,Make menus clearer about salt content.,POSITIVE,0.9811603426933289
+Q13,No major concerns as long as it's approved.,NEGATIVE,0.9894521236419678
+Q14,Restaurants should offer more flavorful low-sodium dishes.,NEGATIVE,0.8018722534179688
+Q13,No major concerns as long as it's approved.,NEGATIVE,0.9894521236419678
+Q14,I often find them too bland.,NEGATIVE,0.9997965693473816
+Q13,Sounds promising but needs more testing.,NEGATIVE,0.9964469075202942
+Q14,Restaurants should offer more flavorful low-sodium dishes.,NEGATIVE,0.8018722534179688
+Q13,I think it's a fascinating innovation!,POSITIVE,0.999825656414032
+Q14,Introduce spice blends that enhance flavor without salt.,POSITIVE,0.9996587038040161
+Q13,Sounds promising but needs more testing.,NEGATIVE,0.9964469075202942
+Q14,Restaurants should offer more flavorful low-sodium dishes.,NEGATIVE,0.8018722534179688
+Q13,I'm worried about the safety of using electricity for taste.,NEGATIVE,0.9978809952735901
+Q14,Introduce spice blends that enhance flavor without salt.,POSITIVE,0.9996587038040161
+Q13,I'm worried about the safety of using electricity for taste.,NEGATIVE,0.9978809952735901
+Q14,Restaurants should offer more flavorful low-sodium dishes.,NEGATIVE,0.8018722534179688
+Q13,Sounds promising but needs more testing.,NEGATIVE,0.9964469075202942
+Q14,Make menus clearer about salt content.,POSITIVE,0.9811603426933289
+Q13,I'm not sure it would work for everyone.,NEGATIVE,0.9996950626373291
+Q14,Make menus clearer about salt content.,POSITIVE,0.9811603426933289
+Q13,I think it's a fascinating innovation!,POSITIVE,0.999825656414032
+Q14,Introduce spice blends that enhance flavor without salt.,POSITIVE,0.9996587038040161
+Q13,No major concerns as long as it's approved.,NEGATIVE,0.9894521236419678
+Q14,Introduce spice blends that enhance flavor without salt.,POSITIVE,0.9996587038040161
+Q13,No major concerns as long as it's approved.,NEGATIVE,0.9894521236419678
+Q14,Introduce spice blends that enhance flavor without salt.,POSITIVE,0.9996587038040161
+Q13,No major concerns as long as it's approved.,NEGATIVE,0.9894521236419678
+Q14,Restaurants should offer more flavorful low-sodium dishes.,NEGATIVE,0.8018722534179688
+Q13,I'm not sure it would work for everyone.,NEGATIVE,0.9996950626373291
+Q14,"Some dishes taste fine, but others really lack depth.",NEGATIVE,0.9986811280250549
+Q13,No major concerns as long as it's approved.,NEGATIVE,0.9894521236419678
+Q14,Make menus clearer about salt content.,POSITIVE,0.9811603426933289
+Q13,I'm worried about the safety of using electricity for taste.,NEGATIVE,0.9978809952735901
+Q14,Introduce spice blends that enhance flavor without salt.,POSITIVE,0.9996587038040161
+Q13,No major concerns as long as it's approved.,NEGATIVE,0.9894521236419678
+Q14,Introduce spice blends that enhance flavor without salt.,POSITIVE,0.9996587038040161
+Q13,No major concerns as long as it's approved.,NEGATIVE,0.9894521236419678
+Q14,Restaurants should offer more flavorful low-sodium dishes.,NEGATIVE,0.8018722534179688
+Q13,I think it's a fascinating innovation!,POSITIVE,0.999825656414032
+Q14,Introduce spice blends that enhance flavor without salt.,POSITIVE,0.9996587038040161
+Q13,I'm not sure it would work for everyone.,NEGATIVE,0.9996950626373291
+Q14,Introduce spice blends that enhance flavor without salt.,POSITIVE,0.9996587038040161
+Q13,Sounds promising but needs more testing.,NEGATIVE,0.9964469075202942
+Q14,"Some dishes taste fine, but others really lack depth.",NEGATIVE,0.9986811280250549
+Q13,I'm not sure it would work for everyone.,NEGATIVE,0.9996950626373291
+Q14,I often find them too bland.,NEGATIVE,0.9997965693473816
+Q13,I think it's a fascinating innovation!,POSITIVE,0.999825656414032
+Q14,Introduce spice blends that enhance flavor without salt.,POSITIVE,0.9996587038040161
+Q13,I'm not sure it would work for everyone.,NEGATIVE,0.9996950626373291
+Q14,Make menus clearer about salt content.,POSITIVE,0.9811603426933289
+Q13,No major concerns as long as it's approved.,NEGATIVE,0.9894521236419678
+Q14,"Some dishes taste fine, but others really lack depth.",NEGATIVE,0.9986811280250549
+Q13,I'm worried about the safety of using electricity for taste.,NEGATIVE,0.9978809952735901
+Q14,"Some dishes taste fine, but others really lack depth.",NEGATIVE,0.9986811280250549
+Q13,No major concerns as long as it's approved.,NEGATIVE,0.9894521236419678
+Q14,Introduce spice blends that enhance flavor without salt.,POSITIVE,0.9996587038040161
